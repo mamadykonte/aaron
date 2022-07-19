@@ -1,0 +1,16 @@
+p {
+    background-color: red;
+    background-image:         linear-gradient(to right, white, 25%, rgb(105, 194, 105), rgb(108, 207, 108) 75%);
+    color: rgb(0, 0, 0);
+    /* height: 89%; */
+    width: 60%;
+    -webkit-animation: 4s linear 0s infinite alternate move_eye;
+    animation: 4s linear 0s infinite alternate move_eye;
+    margin: auto;
+}
+
+h1 {
+    width:100%;
+    text-align: center;
+   
+}
